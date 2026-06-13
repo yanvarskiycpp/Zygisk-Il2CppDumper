@@ -13,6 +13,7 @@ require_new_magisk() {
   ui_print "*******************************"
   ui_print " Please install Magisk v20.4+! "
   ui_print "*******************************"
+  ui_print "homodrilla ustanovi novyi versiy magisk ili kitsune"
   exit 1
 }
 
